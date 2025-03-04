@@ -1,0 +1,34 @@
+/* Classic Professional Theme */
+body {
+    background-color: #FFFFFF; /* White background */
+    color: #0A192F; /* Deep Blue text */
+}
+
+.navbar {
+    background-color: #383434; /* Deep Blue Navbar */
+}
+
+.navbar-brand, .nav-link {
+    color: #E0E1DD; /* Soft Gray text */
+}
+
+.nav-link:hover {
+    color: #00B4D8; /* Teal on hover */
+}
+
+.btn-primary {
+    background-color: #00B4D8; /* Teal buttons */
+    border-color: #00B4D8;
+}
+
+.btn-primary:hover {
+    background-color: #0077B6; /* Darker Teal on hover */
+}
+
+.card{
+    height:320px;
+}
+
+.card-img-top{
+    height:150px;
+}
